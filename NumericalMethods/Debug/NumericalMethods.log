@@ -1,5 +1,4 @@
 ﻿  NumMetForm.cpp
-c:\users\troeg\numericalmethods\numericalmethods\nummetform.h(1195): warning C4715: NumericalMethods::MyForm::ErrorControl: значение возвращается не при всех путях выполнения
-  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+c:\users\troeg\numericalmethods\numericalmethods\nummetform.h(1383): warning C4715: NumericalMethods::MyForm::ErrorControl: значение возвращается не при всех путях выполнения
   NumMetForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   NumericalMethods.vcxproj -> C:\Users\troeg\NumericalMethods\Debug\NumericalMethods.exe
